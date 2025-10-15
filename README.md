@@ -1,4 +1,4 @@
-# StockPlatform
+# StockPlatformUi
 A modular React.js dashboard application built with reusable components for managing users, analytics, projects, reports, and settings. This application provides a structured interface for displaying and interacting with various types of content efficiently.
 
 A sleek, modern, and highly responsive dashboard template built with **React** and styled exclusively using **Tailwind CSS**. This project serves as a starting point for building sophisticated web applications, featuring several common dashboard views and components.
